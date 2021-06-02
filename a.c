@@ -1,2 +1,1 @@
-line1
-
+combine line1
